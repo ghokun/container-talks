@@ -7,3 +7,7 @@ This repository will list nice talks about containers
 
 ### Ship of Fools: Shoring Up Kubernetes Security - SANS Secure DevOps Summit 2018 by Ian Coldwater
 [![Ship of Fools: Shoring Up Kubernetes Security - SANS Secure DevOps Summit 2018](https://img.youtube.com/vi/KR0o9WnAJMY/0.jpg)](https://www.youtube.com/watch?v=KR0o9WnAJMY)
+
+
+### [Turkish] Container'larda init process'leri (PID 1) - Ahmet Alp Balkan
+[![Container'larda init process'leri (PID 1)](https://img.youtube.com/vi/qi-HnR9gEoM/0.jpg)](https://www.youtube.com/watch?v=qi-HnR9gEoM)

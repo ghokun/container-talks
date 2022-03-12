@@ -16,3 +16,5 @@ This repository will list nice talks about containers
 ### DEF CON 29 - Ian Coldwater, Chad Rikansrud - Real Life Story of the 1st Mainframe Container Breakout by Ian Coldwater
 [![DEF CON 29 - Ian Coldwater, Chad Rikansrud - Real Life Story of the 1st Mainframe Container Breakout](https://img.youtube.com/vi/7DXF7YDBf-g/0.jpg)](https://www.youtube.com/watch?v=7DXF7YDBf-g)
 
+### Mastering Chaos - A Netflix Guide to Microservices
+[![Mastering Chaos - A Netflix Guide to Microservices](https://img.youtube.com/vi/CZ3wIuvmHeM/0.jpg)](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
